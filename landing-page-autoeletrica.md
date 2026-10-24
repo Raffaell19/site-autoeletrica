@@ -55,13 +55,17 @@ O projeto preserva rigorosamente a estrutura, métricas e o escopo de alta conve
 13. **Modal de Triagem Inteligente:** 6 opções rápidas que pré-formatam a mensagem no WhatsApp.
 14. **Botão Flutuante (FAB) de WhatsApp:** Efeito de pulso e chamada persuasiva.
 
-## 4. Status de Execução
+## 4. Status de Execução & Publicação
 - [x] Criação da pasta do projeto `site_autoeletrica`
 - [x] Geração de logotipo vetorial estilizado `logo-autovolt.jpg`
 - [x] Geração de imagem hero `hero-autoeletrica.jpg`
 - [x] Geração de imagem de showcase `showcase-autoeletrica.jpg`
 - [x] Implementação de `landing-page-autoeletrica.md`
-- [ ] Customização do CSS Tokens e Paleta Dark Metal / Carbon / Sport Yellow / Tech Cyan
-- [ ] Customização do `index.html` com textos, microdados Schema.org e imagens coerentes
-- [ ] Atualização do `script.js` com mensagens formatadas para auto elétrica
-- [ ] Atualização do `README.md`
+- [x] Customização do CSS Tokens e Paleta Dark Metal / Carbon / Sport Yellow / Tech Cyan
+- [x] Customização do `index.html` com textos, microdados Schema.org e imagens coerentes
+- [x] Atualização do `script.js` com mensagens formatadas para auto elétrica
+- [x] Atualização do `README.md`
+- [x] Criação do repositório no GitHub: [https://github.com/Raffaell19/site-autoeletrica](https://github.com/Raffaell19/site-autoeletrica)
+- [x] Push inicial dos arquivos para a branch `main`
+- [x] Validação em navegador headless com zero erros de console
+
